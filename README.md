@@ -10,7 +10,7 @@ These topics are spread across my professional courses in Mathematical Analysis 
 
 **Instructor:** illusion
 
-**Time:** TBC, Maybe I would prefer weekdays (except for Monday) from 7:25 PM to 10:00 PM.
+**Time:** TBC, Maybe I would prefer weekdays (except Mondays) from 7:25 PM to 10:00 PM.
 
 **Course Schedule**：See the syllabus
 
