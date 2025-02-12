@@ -12,5 +12,5 @@ These topics are spread across my professional courses in Mathematical Analysis 
 
 **Time:** TBC, Maybe I would prefer weekdays (except Mondays) from 7:25 PM to 10:00 PM.
 
-**Course Schedule**：See the syllabus
+**Course Schedule:** See the syllabus
 
