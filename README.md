@@ -10,7 +10,7 @@ These topics are spread across my professional courses in Mathematical Analysis 
 
 **Instructor:** illusion
 
-**Time:** Weekdays From 7:25 PM to 10:00 PM.
+**Time:** From 7:25 PM to 10:00 PM Mainly On Weekdays.
 
 **Course Schedule:** [See the syllabus](https://illusion-hope.github.io/25-Spring-ZQC-Calculus/) 
 
